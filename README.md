@@ -13,3 +13,6 @@ email me if you have any idea or want to make commits
 
 corpsecoder@mailfence.com 
 
+
+Also visit my site at 
+conorswebsite.neocities.org
